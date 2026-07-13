@@ -1,5 +1,5 @@
 # Advanced Analytics - Attrition Insights based on the enriched dataset
-Mockup dashboard for delivering insights on sales team's attrition. Mockup drafted with Claude AI in June 2025. Underlying data is fictional.
+Mockup dashboard for delivering insights on sales team's attrition. Mockup drafted with Claude AI in June 2025. Underlying data is fully fictional.
 
 🌐 **Dashboard for Sales Team's Attrition Risk**
 
