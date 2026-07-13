@@ -1,5 +1,5 @@
 # Advanced Analytics - Sales Attrition Risk
-Mockup dashboard for delivering insights on sales team's attrition. Mockup drafter with Claude AI in June 2025.
+Mockup dashboard for delivering insights on sales team's attrition. Mockup drafted with Claude AI in June 2025. Underlying data is fictional.
 
 🌐 **Dashboard Demo**
 
@@ -9,4 +9,4 @@ Mockup dashboard for delivering insights on sales team's attrition. Mockup draft
 
 ## Overview
 
-This project demonstrates what kind of insights we can achieve by enriching data from separate systems and create a storytelling view that easily explains the attrition in Sales Teams.
+This project demonstrates what kind of insights we can achieve by enriching data from separate systems and create an impactful view which easily explains the attrition factors in the Sales Teams.
