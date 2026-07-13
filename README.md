@@ -3,7 +3,7 @@ Mockup dashboard for delivering insights on sales team's attrition. Mockup draft
 
 🌐 **Dashboard Demo**
 
-👉 [Open Demo Dashboard](https://tiina-kalliokoski.github.io/advanced-analytics-sales-attrition-risk/index.html)
+👉 [Open Demo Dashboard](https://tiina-kalliokoski.github.io/advanced-analytics-sales-attrition-risk/sales_attrition_dashboard.html)
 
 ---
 
